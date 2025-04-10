@@ -1,4 +1,4 @@
-# Cadenas de Markov
+# Cadenas de Markov ⛓️♾️🚫
 
 ## Cómo usarlo con un ambiente virtual
 
